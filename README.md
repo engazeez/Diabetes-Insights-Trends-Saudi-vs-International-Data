@@ -1,4 +1,4 @@
-# Diabetes Insights & Trends (Saudi vs International Data)
+# Diabetes Insights & Trends (Saudi vs International Data
 
 ---
 ## Problem Statement
@@ -68,6 +68,7 @@ Hence, the content, formats, and data representations were therefore prepared in
 |Lisinopril                 |*int* |*Lisinopril is used to treat high blood pressure. 1 means that the patient is taking this medicine* |
 |Simvastatin                 |*int* |*medicine used to lower cholesterol. 1 means that the patient is taking this medicine* |
 
+---
 
 ### International Data Dictionary (With Lab Result)
 
